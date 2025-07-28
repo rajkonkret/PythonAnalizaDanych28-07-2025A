@@ -18,3 +18,5 @@ if __name__ == '__main__':
 # wheel, theme\
 # PEP8 - zasady clean codew pythonie
 # ctrl alt l - formatowanie do zasad PEP8
+# (.venv) PS C:\Users\CSComarch\PycharmProjects\PythonAnalizaDanych28-07-2025A> python .\main.py
+# Hi, PyCharm
