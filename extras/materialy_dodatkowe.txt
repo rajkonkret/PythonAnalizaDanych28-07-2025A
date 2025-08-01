@@ -118,3 +118,6 @@ spam /= 1    spam = spam / 1
 spam %= 1    spam = spam % 1
 
 https://www.kaggle.com/datasets
+https://www.python.org
+https://naukapythona.com.pl
+
